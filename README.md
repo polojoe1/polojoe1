@@ -5,6 +5,7 @@
 <a href="https://edabit.com/user/37ua3BGXLQawJwCBa"><img src="https://img.shields.io/badge/Edabit-green"/></a>
 <h1>Joseph Coats</h1>
 <h6> Software Engineer</h6>
+<h6> Military Veteran</h6>
 
 
 
