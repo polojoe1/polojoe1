@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-<a href="https://www.linkedin.com/in/josephcoats501/"><img src="https://img.shields.io/badge/linkedin-blue"/></a>
+<a href="https://www.linkedin.com/in/josephcoats501/"><img src="https://img.shields.io/badge/LinkedIn-blue"/></a>
+<a href="https://www.youtube.com/realpolojoe"><img src="https://img.shields.io/badge/YouTube-red"/></a>
 
 <!--
 **polojoe1/polojoe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
