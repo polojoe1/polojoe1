@@ -1,7 +1,7 @@
 ###
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 <a href="https://www.linkedin.com/in/josephcoats501/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/realpolojoe"><img src="https://img.shields.io/badge/YouTube-red"/></a>
+<a href="https://www.youtube.com/realpolojoe"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://edabit.com/user/37ua3BGXLQawJwCBa"><img src="https://img.shields.io/badge/Edabit-green"/></a>
 <h1>Joseph Coats</h1>
 <h6> Software Engineer</h6>
