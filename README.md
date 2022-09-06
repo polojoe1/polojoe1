@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img href="https://www.linkedin.com/in/josephcoats501/" src="https://img.shields.io/badge/linkedin-blue"/>
 
 <!--
 **polojoe1/polojoe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
